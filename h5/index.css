@@ -317,11 +317,12 @@ html {
 }
 .swiper-container .page3 .top .bottom {
   width: 6.66666667rem;
-  height: 2.66666667rem;
+  height: 4rem;
   position: absolute;
   left: 50%;
-  margin-left: -3.73333333rem;
-  bottom: 8%;
+  margin-left: -3.2rem;
+  bottom: 2%;
+  background: url(img/page3_bottom.webp) no-repeat;
 }
 .swiper-container .page4 {
   width: 100%;
